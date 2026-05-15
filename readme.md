@@ -54,12 +54,16 @@ Dockerized FastAPI application for automated and manual Kraken Pro DCA trading.
 
 # Requirements
 
-Install:
+### Required to run the app
 
 - Docker
 - Docker Compose
-- Git
 
+### Windows
+
+- WSL 2
+- Ubuntu WSL distro
+- Docker Desktop with WSL 2 backend enabled
 ---
 
 # Clone Repository
